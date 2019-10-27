@@ -1,1 +1,2 @@
 # weather-dashboard
+This is my first project attempt at utilizing AJAX and JSON with the weather API.  When I can get the application to function correctly, the user will be able to enter a city in the search box.  It will display the current weather conditions and also append the search.  The application will also be able to display a 5-day forecast.
