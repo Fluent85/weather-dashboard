@@ -1,0 +1,12 @@
+.dashboard {
+    text-align: center;
+}
+
+h2 {
+    float: left;
+    padding: inherit;
+}
+
+.navbar navbar-light bg-light {
+    float: left;
+}
