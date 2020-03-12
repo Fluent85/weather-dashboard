@@ -28,6 +28,8 @@ Simply click the link below.
 
 https://fluent85.github.io/weather-dashboard/
 
+https://drive.google.com/file/d/1yg6AGaHKO2awjyBHcEHJAw1yMCPlLBiG/view
+
 
 
 ## Issues and future development
