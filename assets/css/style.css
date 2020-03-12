@@ -1,12 +1,31 @@
-.dashboard {
+body {
+    background: url("../images/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 19px;
+    
+}
+
+h1 {
+    background-color: rgb(6, 29, 156);
+    color: rgb(236, 231, 231);
+    width: 100%;
     text-align: center;
+    padding: 10px;
 }
 
-h2 {
-    float: left;
-    padding: inherit;
+.jumbotron {
+    background-color: rgb(215, 214, 219);
+    border-radius: 25px;
+    border: 1px solid darkblue;
 }
 
-.navbar navbar-light bg-light {
-    float: left;
+.nav {
+    padding-bottom: 15px;
+}
+
+#select-city {
+    background-color: darkblue;
+    color: white;
 }

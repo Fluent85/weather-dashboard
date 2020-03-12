@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/style.css" />
+    <title>Weather Dashboard</title>
+</head>
+
+<body>
+
+    <header>
+        <nav class="nav">
+            <h1>Weather Dashboard</h1>
+        </nav>
+    </header>
+
+    <div class="container">
+
+        <div class="jumbotron">
+
+        <div class="row">
+
+            <div class="col-md-4">
+                <h2><strong>Search for a city...</strong></h2>
+                <input type="text" id="city-search">
+                <button type="button" id="select-city" type="submit" value="Search">Search</button>
+
+                <div class="row">
+                    <div id="city-buttons"></div>
+                </div>
+            </div>
+
+            <div class="col-md-8">
+
+                <h2><strong><u>Current Weather:</u></strong></h2>
+
+                <div class="city"></div>
+                <img class="icon"></img>
+                <div class="temperature"></div>
+                <div class="humidity"></div>
+                <div class="wind"></div>
+                <div class="uv"></div>
+
+                <br />
+
+                <h2><strong><u>5-Day Weather Forecast:</u></strong></h2>
+
+                <div class="row forecast"></div>
+
+            </div>
+        </div>
+        </div> <!--Jumbotron-->
+    </div> <!--Container-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="assets/javascript/script.js"></script>
+</body>
+
+</html>
+​
+<!-- ideas: -->
+​
+<!-- ajax jquery  -->
+<!-- API key 166a433c57516f51dfab1f7edaed8413
+<!-- add variable/api key to query string -->
+<!-- display results in html -->
+<!-- in javascript file -->
+<!-- add search terms to history list --> 
