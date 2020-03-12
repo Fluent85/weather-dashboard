@@ -8,6 +8,16 @@ As a traveler
 I want to see the weather outlook for multiple cities
 so that I can plan a trip accordingly
 
+## Screenshot
+
+
+<img src="assets/images/demo1.JPG" alt="weather dashboard">
+
+
+<img src="assets/images/demo2.JPG" alt="forecast 5 day">
+
+
+
 ## Motivation
 
 The goal is to continue to improve on JavaScript and various JavaScript libraries.  Also get more familiar with AJAX, JSON, and APIs.  
@@ -17,6 +27,8 @@ The goal is to continue to improve on JavaScript and various JavaScript librarie
 Simply click the link below.
 
 https://fluent85.github.io/weather-dashboard/
+
+
 
 ## Issues and future development
 
