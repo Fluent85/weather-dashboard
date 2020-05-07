@@ -1,4 +1,4 @@
-var apiKey = "b090192947ebb72ee8d89e585110389e"
+var apiKey = "5fb44f50cc842ef811fa29761387a295"
 var savedCities = [];
 var city
 
