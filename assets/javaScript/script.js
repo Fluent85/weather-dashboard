@@ -101,5 +101,3 @@ $(document).on("click", ".city-btn", function(event){
     city = $(this).text();
     searchCityWeather();
 })
-
-
