@@ -1,6 +1,11 @@
 # Weather-Dashboard
 
-This is my first project attempt at utilizing AJAX and JSON with the weather API.   The user will be able to enter a city in the search box.  It will display the current weather conditions and also append the search.  The application will also be able to display a 5-day forecast.
+Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL.
+This is my first project attempt at utilizing AJAX and JSON with the weather API.   The user will be able to enter a city in the search box.  It will display the current weather conditions and also append the search.  The application will also be able to display a 5-day forecast.  
+
+## Goal
+
+Build a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities.
 
 ## User Story
 
